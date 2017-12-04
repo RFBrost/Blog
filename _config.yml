@@ -1,6 +1,6 @@
 ---
-title: Blog
-timezone: UTC
+title: Connect The Dots Blog
+timezone: America/Los_Angeles
 collections:
   posts:
     title: Posts
@@ -9,3 +9,4 @@ collections:
     title: Uploads
     output: true
 theme: jekyll-theme-slate
+Field name: 
